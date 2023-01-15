@@ -1,0 +1,12 @@
+{
+    "name": "nuuu/muuu",
+    "description": "test package",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "hoge",
+            "email": "hoge@gmail.com>"
+        }
+    ]
+}
