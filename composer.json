@@ -8,5 +8,8 @@
             "name": "hoge",
             "email": "hoge@gmail.com>"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
 }
